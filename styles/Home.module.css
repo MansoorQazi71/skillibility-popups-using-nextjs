@@ -1,0 +1,213 @@
+.add{
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #456DD3;
+border-radius: 5px;
+border: 1px solid #456DD3;
+background:#FFFFFF;
+margin-top: 49px;
+margin-left: 160px;
+display: flex;
+}
+.or
+{
+  display: flex;
+width: 36px;
+height: 33px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #ACACAC;
+padding-top: 46px;
+padding-left: 100px;
+}
+.review{
+  display: flex;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+color: #FFFFFF;
+background: #456DD3;
+border-radius: 5px;
+margin-top:49px ;
+margin-left:100px ;
+border: 1px solid #456DD3;
+margin-right: 617px;
+}
+.type{
+  padding-top: 63px;
+padding-left:150px;
+ padding-right:  700px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-size: 30px;
+color: #222222;
+}
+.quecards>div
+{
+  display:flex;
+  position: absolute;
+width: 56px;
+height: 50px;
+margin-left: 25px ;
+margin-bottom: 25px;
+margin-right: 25px;
+margin-top:5px ;
+
+background: #686F7C;
+
+
+
+background: #686F7C;
+}
+.scbutton{
+  position: absolute;
+  width: 250px;
+  height: 100px;
+ margin-left: 150px;
+ margin-top: 25px;
+ background: #E0E4EC;
+  border-radius: 10px;
+}
+.vcp
+{
+  display: flex;
+  width: 122px;
+height: 27px;
+margin-left: 5px;
+margin-top: 37px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* 22222 */
+
+color: #222222;
+}
+.scp
+{
+  display: flex;
+  width: 122px;
+height: 27px;
+margin-left: 0px;
+margin-top: 37px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+/* 22222 */
+
+color: #222222;
+}
+.mcp
+{
+  display: flex;
+  width: 140px;
+height: 27px;
+padding-top: 30px;
+padding-left: 0%;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+
+/* 22222 */
+
+color: #222222;
+}
+.sc
+{
+  display: flex;
+  width: 56px;
+height: 50px;
+margin-left: 25px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.mcbutton
+{
+width: 250px;
+height: 100px;
+margin-left: 450px;
+margin-top: 25px;
+border-radius: 10px;
+background: #E0E4EC;
+}
+.mc{
+  display: flex;
+  width: 56px;
+height: 50px;
+margin-left: 15px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.cbutton{
+  width: 250px;
+height: 100px;
+margin-left: 50px;
+margin-top:25px;
+border-radius: 10px;
+background: #E0E4EC;
+}
+.fabutton
+{
+  width: 250px;
+height: 100px;
+margin-left: 150px;
+margin-top: 50px;
+margin-right: 50px;
+background: #E0E4EC;
+border-radius: 10px;
+}
+.videoque
+{
+  width: 250px;
+  height: 100px;
+  margin-left: 0px;
+  margin-top: 25px;
+  background: #E0E4EC;
+  border-radius: 10px;
+}
+.back
+{
+  width: 70px;
+height: 40px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+font-weight: 700;
+margin-top:400px;
+margin-left:1246px;
+line-height: 33px;
+margin-bottom: 10px;
+/* identical to box height */
+
+
+color: #456DD3;
+}
+.info
+{
+  padding-top: 2px;
+}
+.vc{
+  display: flex;
+  width: 56px;
+height: 50px;
+margin-left: 65px;
+margin-bottom: 25px;
+margin-top: 25px;
+}

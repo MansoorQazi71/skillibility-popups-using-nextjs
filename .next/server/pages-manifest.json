@@ -1,0 +1,21 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/addquestions/addque": "pages/addquestions/addque.js",
+  "/addquestions/coding": "pages/addquestions/coding.js",
+  "/addquestions/free": "pages/addquestions/free.js",
+  "/addquestions/multiplechoice": "pages/addquestions/multiplechoice.js",
+  "/addquestions/singlechoice": "pages/addquestions/singlechoice.js",
+  "/addquestions/video": "pages/addquestions/video.js",
+  "/dashboard/wallpaper": "pages/dashboard/wallpaper.js",
+  "/experience/experience": "pages/experience/experience.js",
+  "/filter/filter": "pages/filter/filter.js",
+  "/": "pages/index.js",
+  "/model3/updateprofile": "pages/model3/updateprofile.js",
+  "/navbar/navbar": "pages/navbar/navbar.js",
+  "/notification/notification": "pages/notification/notification.js",
+  "/notification/notify": "pages/notification/notify.js",
+  "/updateskills/updateskills": "pages/updateskills/updateskills.js",
+  "/withdraw/withdraw": "pages/withdraw/withdraw.js",
+  "/_document": "pages/_document.js"
+}

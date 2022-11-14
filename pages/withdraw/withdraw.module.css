@@ -1,0 +1,336 @@
+.box1
+{
+  display: flex;
+  position: relative;
+width: 500px;
+height: 500px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.crossbutton
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; 
+  width: 24px;
+  height: 24px;
+ margin-left: 466px;
+ margin-top: 5px;
+  
+  /* Grey / Medium */
+  
+  background: #E5E5E5;
+  border-radius: 29px;
+}
+.accountinfo
+{
+  width: 189px;
+  height: 27px;
+  margin-left:22px;
+ margin-top: 29px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+}
+.box2
+{
+  position: absolute;
+width: 456px;
+height: 162px;
+margin-left: 22px;
+margin-top: 9px;
+margin-right: 9px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), #F3F8FF;
+border: 0.75px solid #E0E4EC;
+border-radius: 8px;
+}
+.bank
+{width: 120px;
+  height: 22px;
+ display: flex;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+padding-left: 17px;
+padding-top: 14px;
+}
+.accountholder
+{
+  width: 170px;
+    height: 22px;
+   display: flex;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    /* bbbbbbbb */
+    
+    color: #464255;
+  padding-left: 17px;
+  padding-top: 14px;
+  
+}
+.accountnoo
+{width: 120px;
+  height: 22px;
+ display: flex;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+padding-left: 17px;
+padding-top: 14px;
+}
+.status
+{width: 120px;
+  height: 22px;
+ display: flex;
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height */
+  
+  
+  /* bbbbbbbb */
+  
+  color: #464255;
+padding-left: 17px;
+padding-top: 14px;
+}
+.bankname
+{
+  width: 32px;
+height: 22px;
+padding-left: 136px;
+padding-top: 14px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #464255;
+}
+.holdername
+{
+  width: 32px;
+  height: 22px;
+  padding-left: 84px;
+  padding-top: 15px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #464255;
+}
+.accountno{
+  width: 32px;
+  height: 22px;
+  padding-left: 133px;
+  padding-top: 15px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #464255;
+}
+.verified
+{
+  width: 32px;
+  height: 22px;
+  padding-left: 133px;
+  padding-top: 15px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #464255;
+}
+.changemethod
+{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 135px;
+height: 39px;
+margin-left: 345px;
+margin-top: 177px;
+
+background: #F3F8FF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 5px;
+}
+.dollars
+{
+  width: 87px;
+height: 49px;
+margin-left: 206px;
+margin-top: 196px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+
+/* bbbbbbbb */
+
+color: #464255;
+}
+.box3
+{
+  display: flex;
+  position: absolute;
+width: 456px;
+height: 50px;
+margin-left: 22px;
+margin-top: 25px;
+margin-right: 22px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), #F3F8FF;
+
+/*background: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), #F3F8FF;*/
+border: 0.75px solid #E0E4EC;
+border-radius: 5px;
+}
+.enteramount
+{
+  width: 150px;
+height: 27px;
+padding-left: 40px;
+padding-top: 15px;
+padding-bottom: 12px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+margin-top: 10px;
+margin-left: 40px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03)), #F3F8FF;
+
+/* stoke */
+
+color: #ACACAC;
+
+}
+.send
+{
+  width: 48px;
+height: 27px;
+margin-left: 175px;
+margin-top:10px ;
+margin-bottom: 14px;
+margin-right:10px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+
+/* bluee */
+
+color: #456DD3;
+}
+.usd{
+  width: 34px;
+height: 22px;
+padding-left: 11px;
+padding-top: 14px;
+padding-bottom: 14px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* bbbbbbbb */
+
+
+color: #464255;
+}
+.box4
+{
+  display: flex;
+  position: absolute;
+width: 456px;
+height: 60px;
+margin-top: 39px;
+margin-right: 22px;
+margin-bottom: 39px;
+left: 22px;
+top: 401px;
+
+background: #FFF1F1;
+border: 1px solid #F38585;
+border-radius: 10px;
+}
+.limit
+{
+  width: 365px;
+height: 40px;
+padding-left:10px ;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 40px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #F38585;
+}
+.infoo
+{
+  padding-left:21px;
+  padding-top:10px;
+  padding-bottom:30px;
+  padding-right:10px;
+}

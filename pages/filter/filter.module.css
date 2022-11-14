@@ -1,0 +1,293 @@
+.container{
+  position: relative;
+  width: 891px;
+  height: 535px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 20px 20px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+border-radius: 10px;
+}
+.searchbox
+{
+  background: #F9F9F9;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  margin-left: 15px;
+}
+.menuwidget{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 30px 35px;
+gap: 20px;
+
+position: absolute;
+width: 345px;
+height: 110px;
+left: 23px;
+top: 1px;
+
+border: 1px solid #E8E8E8;
+border-radius: 5px;
+}
+.box1
+{
+  display: flex;
+  box-sizing: border-box;
+
+width: 301px;
+height: 50px;
+
+background: #F9F9F9;
+border: 1px solid #E6E6E6;
+border-radius: 5px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.searchicon
+{
+margin-left: 25px;
+margin-top: 11px;
+margin-bottom: 15px;
+}
+.group
+{
+  margin-top:28px ;
+  margin-left: 745px;
+}
+.icon
+{
+ margin-top:  21.5px;
+ margin-left: 20px;
+ margin-right: 21px;
+}
+.questiontype
+{
+  box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px 35px;
+gap: 8px;
+
+position: absolute;
+width: 345px;
+height: 351px;
+left: 65px;
+top: 140px;
+
+border: 1px solid #E8E8E8;
+border-radius: 5px;
+margin-bottom: 0%;
+}
+.assesment
+{
+  box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px 35px;
+gap: 8px;
+
+position: absolute;
+width: 345px;
+height: 351px;
+left: 481px;
+top: 140px;
+
+border: 1px solid #E8E8E8;
+border-radius: 5px;
+margin-bottom: 0%;
+}
+.radio
+{
+  box-sizing: border-box;
+width: 25px;
+height: 25px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2px solid #DCDCDC;
+border-radius: 16px;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+.checkbox
+{
+  box-sizing: border-box;
+width: 25px;
+height: 25px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2px solid #DCDCDC;
+border-radius: 5px;
+margin-top: 0px;
+margin-left: 35px;
+margin-bottom: 0%;
+width: 25px;
+height: 25px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 2px solid #DCDCDC;
+border-radius: 5px;
+}
+.choices
+{
+width: 116px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+  width: 110px;
+height: 24px;
+left: 40px;
+top: 1px;
+
+/* h6 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+}
+.asses
+{
+  margin-left: 15px;
+  width: 116px;
+  width: 75px;
+height: 24px;
+left: 40px;
+top: 1px;
+
+/* h6 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+}
+.p2
+{
+  width: 17px;
+height: 24px;
+right: 0px;
+top: 1px;
+
+/* h6 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: right;
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+  margin-left: 96px;
+  margin-right: 35px;
+}
+.p1
+{
+  width: 17px;
+height: 24px;
+right: 0px;
+top: 1px;
+
+/* h6 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: right;
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+  margin-left: 96px;
+}
+.assesment1
+{
+  width: 83px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+  
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  
+  letter-spacing: 0.1px;
+  
+  /* text-color */
+  
+  color: #252B42;
+  margin-left: 35px;
+}
+.questiontype1
+{
+  width: 109px;
+height: 24px;
+margin-left: 35px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.1px;
+
+/* text-color */
+
+color: #252B42;
+}

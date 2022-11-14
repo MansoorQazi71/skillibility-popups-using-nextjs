@@ -1,0 +1,98 @@
+.java
+{
+  margin-top: 100px;
+  margin-left: 0px;
+
+}
+.experiencelevel
+{
+  margin-top: 50.43px;
+  display: flex;
+  height: 35px;
+width: 250px;
+margin-left: 23.83px;
+border-radius: nullpx;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25.5388px;
+line-height: 35px;
+/* identical to box height */
+
+
+/* bbbbbbbb */
+
+color: #464255;
+
+}
+.experiencebox
+{
+  position: relative;
+width: 638.47px;
+height: 395px;
+
+background: #FFFFFF;;
+border-radius: 34.0517px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 35%;
+}
+.radio1
+{
+  display: flex;
+  height: 34px;
+width: 34px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+border: 1px solid #D1D1D6;
+margin-left: 24px;
+margin-top: 0.57px;
+}
+.year1
+{
+  height: 35px;
+  width: 72px;
+  margin-left: 25px;
+  margin-top: 0.57px;
+  border-radius: nullpx;
+  
+}
+.radio2
+{
+  display: flex;
+  flex-direction: row;
+  height: 34px;
+width: 34px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+border: 1px solid #D1D1D6;
+margin-left: 24px;
+margin-top: 0px;
+}
+.year2
+{
+  height: 35px;
+  width: 72px;
+  margin-left: 25px;
+  margin-top: 0px;
+  border-radius: nullpx;
+  height: 35px;
+width: 195px;
+left: 83px;
+top: 322px;
+border-radius: nullpx;
+
+  
+}
+.nextarrow
+{
+  margin-left: 0px;
+  margin-top:319px;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 150px;
+  align-items: center;
+}
